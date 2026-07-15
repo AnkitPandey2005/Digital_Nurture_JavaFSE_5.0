@@ -26,6 +26,7 @@ The repository is organized by topic-based folders:
 ├── Mockito_Exercises/
 ├── PL-SQL/
 ├── SL4J_Logging_Exercises/
+├── MicroServices with Spring Boot 3 and Spring Cloud/
 ├── Spring_Core_Maven/
 ├── Spring_Rest_Using_Spring_Boot3/
 └── Spring-Data-JPA-Spring-Boot-hibernate/
@@ -57,6 +58,10 @@ The repository is organized by topic-based folders:
   - Structured logging with SLF4J
   - Logging best practices in Java projects
 
+- **MicroServices with Spring Boot 3 and Spring Cloud**
+  - Microservice architecture exercises with Spring Boot 3
+  - Service discovery and cloud-native patterns with Spring Cloud
+
 - **Spring_Core_Maven**
   - IoC, dependency injection, and bean lifecycle concepts
   - Maven-based Spring Core setup and exercises
@@ -76,6 +81,7 @@ The repository is organized by topic-based folders:
 - Java 11+
 - Spring Core
 - Spring Boot 3
+- Spring Cloud
 - Spring Data JPA
 - Hibernate
 - Maven
