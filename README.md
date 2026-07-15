@@ -95,34 +95,6 @@ The repository is organized by topic-based folders:
 - IntelliJ IDEA / Eclipse / VS Code
 - Git and GitHub
 
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/Digital_Nurture_JavaFSE_5.0.git
-cd Digital_Nurture_JavaFSE_5.0
-```
-
-2. Open the repository in your preferred IDE.
-
-3. Pick any exercise folder and run/build it based on its setup:
-
-- Maven projects:
-
-```bash
-mvn clean test
-```
-
-- Spring Boot projects:
-
-```bash
-mvn spring-boot:run
-```
-
-- SQL/PL-SQL scripts:
-  - Execute scripts in your SQL client or database console.
-
 ## Recommended Learning Flow
 
 1. Start with Java and data structures basics
