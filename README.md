@@ -31,6 +31,13 @@ Week_4/
 
 Week_5/
   React/
+
+Week_6/
+  Exercise_1/
+  Exercise_2/
+  Exercise_3/
+  Exercise_4/
+  Exercise_5/
 ```
 
 ## Week-wise Coverage
@@ -77,6 +84,14 @@ Week_5/
 - Event handling and conditional rendering
 - Lists, keys, and component-based architecture
 
+### Week 6
+
+- Git and GitHub basics
+- Creating and cloning repositories
+- Branching and merging
+- Resolving merge conflicts
+- Commit cleanup and pushing changes
+
 ## Technologies Used
 
 - Java 17
@@ -113,6 +128,7 @@ Through this program, I gained practical experience in:
 - Microservices architecture
 - React fundamentals and component-based development
 - Version control using Git and GitHub
+- Branching, merging, and conflict resolution in Git
 
 ## Repository Status
 
@@ -121,6 +137,7 @@ Through this program, I gained practical experience in:
 - Week 3: Completed
 - Week 4: Completed
 - Week 5: Completed
+- Week 6: Completed
 - Remaining modules: In progress
 
 ## Acknowledgement
